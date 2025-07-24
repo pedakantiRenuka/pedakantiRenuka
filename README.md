@@ -1,12 +1,19 @@
-- 👋 Hi, I’m Renuka
-- 👀 I’m interested in ...Python
-- 🌱 I’m currently learning...Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there! I'm **Renuka**
 
-<!---
-pedakantiRenuka/pedakantiRenuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 I'm passionate about **solving real-world problems using data** and continuously expanding my knowledge in the tech world.
+
+💻 Currently diving deeper into:  
+- **Python** for Data Science  
+- **Machine Learning & Deep Learning**  
+- Projects in **NLP and Computer Vision**
+
+🤝 I'm open to collaborating on:  
+- Machine Learning Projects  
+- Data Science Case Studies  
+- Python-based Automation Tools
+
+📫 Reach me at: **pedakantirenuka@gmail.com**  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/p-renuka-78654a325)
+
+😄 Pronouns: she/her  
+  
