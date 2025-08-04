@@ -10,7 +10,6 @@
 🤝 I'm open to collaborating on:  
 - Machine Learning Projects  
 - Data Science Case Studies  
-- Python-based Automation Tools
 
 📫 Reach me at: **pedakantirenuka@gmail.com**  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/p-renuka-78654a325)
