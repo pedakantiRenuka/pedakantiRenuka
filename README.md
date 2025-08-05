@@ -5,7 +5,7 @@
 💻 Currently diving deeper into:  
 - **Python** for Data Science  
 - **Machine Learning & Deep Learning**  
-- Projects in **NLP and Computer Vision**
+- Projects in **NLP **
 
 🤝 I'm open to collaborating on:  
 - Machine Learning Projects  
