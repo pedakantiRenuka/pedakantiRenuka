@@ -2,8 +2,7 @@
 
 ### AI/ML Developer & Data Scientist | Building Intelligent Systems
 
-- 🎓 **B.Tech CSE Graduate** from RGUKT RK Valley (CGPA: 8.2)
-- 🤖 **Currently working on** AI Multi-Chatbot using Streamlit & Gemini API
+- 🎓 **B.Tech CSE Graduate** from RGUKT RK Valley
 - 🔍 **Looking for opportunities** in AI, Machine Learning, and Data Science roles
 - 💼 **Portfolio:** [pedakantirenuka.github.io](https://pedakantirenuka.github.io)
 - 💬 **Ask me about** Machine Learning, NLP, Python, Data Science
@@ -56,36 +55,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [AI Multi-Chatbot Web Application](https://github.com/pedakantiRenuka/-AI-Multi-Chatbot-WebApplication)
-Built a comprehensive AI chatbot with 5 NLP features: Email Spam Detection, Sentiment Analysis, Text Summarization, Grammar Correction, and Language Translation using Streamlit and Google Gemini API.
-
-**Tech Stack:** Python • Streamlit • Gemini API • NLP
-
-### 💉 Diabetes Prediction Using ML
-Developed a machine learning model using Logistic Regression, Random Forest, KNN, and Naive Bayes to predict diabetes likelihood from patient data.
-
-**Tech Stack:** Python • scikit-learn • Pandas • Matplotlib
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedakantiRenuka&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedakantiRenuka&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedakantiRenuka&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - ⭐ **5 Stars** in Python Problem Solving - HackerRank
@@ -112,10 +81,6 @@ Developed a machine learning model using Logistic Regression, Random Forest, KNN
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedakantiRenuka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   💡 <i>"Turning data into insights, one algorithm at a time!"</i>
