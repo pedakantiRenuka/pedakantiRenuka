@@ -1,6 +1,6 @@
 # Hi 👋, I'm Renuka
 
-### AI/ML Developer & Data Scientist | Building Intelligent Systems
+### AI/ML Developer| Building Intelligent Systems
 
 - 🎓 **B.Tech CSE Graduate** from RGUKT RK Valley
 - 🔍 **Looking for opportunities** in AI, Machine Learning, and Data Science roles
